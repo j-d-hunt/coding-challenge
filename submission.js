@@ -42,7 +42,6 @@ const isPalindrome = function(str) {
 };
 
 const largestPair = function(array) {
-  const largestPair = function(array) {
   let arr = array;
   let currentElement = 0;
   let nextElement = 0;
